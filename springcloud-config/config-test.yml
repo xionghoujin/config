@@ -1,4 +1,4 @@
 userinfo:
   name: xhj
-  passwrod: 30
+  passwrod: 30-${userinfo.version}
   version: 1
